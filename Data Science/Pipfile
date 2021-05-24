@@ -9,8 +9,13 @@ pytest = "*"
 
 [packages]
 fastapi = "*"
-uvicorn = {extras = ["standard"], version = "*"}
 sqlalchemy = "*"
+pandas = "*"
+numpy = "*"
 
 [requires]
 python_version = "3"
+
+[packages.uvicorn]
+extras = [ "standard",]
+version = "*"
