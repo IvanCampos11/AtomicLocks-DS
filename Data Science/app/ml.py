@@ -4,6 +4,7 @@ from fastapi import APIRouter
 
 router = APIRouter()
 
+
 @router.post('/predict')
 async def predict():
     """returns 200000. Legit nothing else."""
