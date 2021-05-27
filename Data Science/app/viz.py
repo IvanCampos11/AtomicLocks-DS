@@ -6,7 +6,7 @@ router = APIRouter()
 
 
 @router.get('/viz')
-async def predict():
-    """returns 200000. Legit nothing else."""
+async def viz():
+    """This supposed to return a viz but nah"""
     y_pred = 'E'
     return {'here your viz': y_pred}
