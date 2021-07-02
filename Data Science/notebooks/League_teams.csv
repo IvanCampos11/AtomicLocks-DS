@@ -1,0 +1,231 @@
+,TeamId,AreaId,AreaName,Key,Name,ShortName,Active
+0,100000001,107.0,Korea Republic,AF,afreeca Freecs,afreeca Freecs,True
+1,100000002,107.0,Korea Republic,BBQ,bbq OLIVERS,bbq OLIVERS,True
+2,100000003,107.0,Korea Republic,JAG,Jin Air Green Wings,Jin Air GW,True
+3,100000004,107.0,Korea Republic,KDM,Kongdoo Monster,Kongdoo,True
+4,100000005,107.0,Korea Republic,KT,kt Rolster,kt Rolster,True
+5,100000006,107.0,Korea Republic,LZ,Longzhu Gaming,Longzhu Gaming,False
+6,100000007,107.0,Korea Republic,MVP,MVP,MVP,True
+7,100000008,107.0,Korea Republic,ROX,ROX Tigers,ROX Tigers,True
+8,100000009,107.0,Korea Republic,SSG,Samsung Galaxy,Samsung Galaxy,False
+9,100000010,107.0,Korea Republic,SKT,SK Telecom T1,SK Telecom T1,False
+10,100000011,184.0,Sweden,FNC,Fnatic,Fnatic,True
+11,100000012,176.0,Spain,G2,G2 Esports,G2 Esports,True
+12,100000013,176.0,Spain,GIA,Vodafone Giants.Spain,Giants.Spain,True
+13,100000014,272.0,United Kingdom,H2k,H2k-Gaming,H2k-Gaming,True
+14,100000015,272.0,United Kingdom,MSF,Misfits,Misfits,True
+15,100000016,176.0,Spain,AS,Origen,Astralis,True
+16,100000017,61.0,Denmark,SPY,Splyce,Splyce,False
+17,100000018,80.0,Germany,ROC,Team ROCCAT,Team ROCCAT,True
+18,100000019,76.0,France,VIT,Team Vitality,Team Vitality,True
+19,100000020,80.0,Germany,USE,Unicorns Of Love,Unicorns OL,True
+20,100000021,203.0,United States,C9,Cloud9,Cloud9,True
+21,100000022,4.0,N\/C America,CLG,Counter Logic Gaming,CLG,True
+22,100000023,203.0,United States,FOX,Echo Fox,Echo Fox,True
+23,100000024,203.0,United States,FLY,FlyQuest,FlyQuest,True
+24,100000025,4.0,N\/C America,IMT,Immortals,Immortals,True
+25,100000026,4.0,N\/C America,P1,Phoenix1,Phoenix1,True
+26,100000027,203.0,United States,DIG,Team Dignitas,Team Dignitas,True
+27,100000028,4.0,N\/C America,NV,Team EnVyUs,Team EnVyUs,True
+28,100000029,203.0,United States,TL,Team Liquid,Team Liquid,True
+29,100000030,4.0,N\/C America,TSM,Team SoloMid,Team SoloMid,True
+30,100000031,107.0,Korea Republic,EEW,Ever8 Winners,Ever8 Winners,True
+31,100000032,80.0,Germany,MM,Mysterious Monkeys,Myst. Monkeys,False
+32,100000033,184.0,Sweden,NIP,Ninjas in Pyjamas,NiP,True
+33,100000034,107.0,Korea Republic,KZ,Kingzone DragonX,Kingzone DrX,True
+34,100000035,107.0,Korea Republic,KSV,KSV eSports,KSV eSports,False
+35,100000036,80.0,Germany,S04,FC Schalke 04,FC Schalke 04,True
+36,100000037,50.0,Chinese Taipei,AHQ,ahq e-Sports Club,ahq e-Sports,True
+37,100000038,50.0,Chinese Taipei,FW,Flash Wolves,Flash Wolves,True
+38,100000039,91.0,Hong Kong,GRX,G-Rex,G-Rex,True
+39,100000040,91.0,Hong Kong,HKA,HK Attitude,HK Attitude,True
+40,100000041,50.0,Chinese Taipei,JT,J Team,J Team,True
+41,100000042,50.0,Chinese Taipei,MCX,Machi E-Sports,Machi Esports,True
+42,100000043,50.0,Chinese Taipei,MAD,MAD Team,MAD Team,True
+43,100000044,50.0,Chinese Taipei,AFR,Team Afro,Team Afro,True
+44,100000045,203.0,United States,100,100 Thieves,100 Thieves,True
+45,100000046,203.0,United States,CG,Clutch Gaming,Clutch Gaming,True
+46,100000047,203.0,United States,GG,Golden Guardians,Golden Guard.,True
+47,100000048,203.0,United States,OPT,OpTic Gaming,OpTic Gaming,True
+48,100000049,102.0,Japan,7h,7th heaven,7th heaven,False
+49,100000050,102.0,Japan,DFM,DetonatioN FocusMe,DetonatioN FMe,True
+50,100000051,102.0,Japan,PGM,PENTAGRAM,PENTAGRAM,True
+51,100000052,102.0,Japan,RJ,Rascal Jester,Rascal Jester,True
+52,100000053,102.0,Japan,USG,Unsold Stuff Gaming,Unsold Stuff,True
+53,100000054,102.0,Japan,V3,V3 Esports,V3 Esports,True
+54,100000055,191.0,Thailand,ASC,Ascension Gaming,Ascension,True
+55,100000056,196.0,Turkey,SMB,Bahçeşehir SuperMassive,SuperMassive,True
+56,100000057,208.0,Vietnam,EVS,EVOS Esports,EVOS Esports,True
+57,100000058,160.0,Russia,GMB,Gambit Esports,Gambit,True
+58,100000059,35.0,Brazil,KBM,KaBuM! e-Sports,KaBuM!,True
+59,100000060,48.0,Chile,KLG,Kaos Latin Gamers,Kaos LG,True
+60,100000061,19.0,Australia,DW,LG Dire Wolves,Dire Wolves,True
+61,100000062,129.0,Mexico,R7,Rainbow7,Rainbow7,True
+62,100000063,49.0,China PR,RNG,Royal Never Give Up,Royal NGU,True
+63,100000064,107.0,Korea Republic,GEN,Gen.G,Gen.G,True
+64,100000065,107.0,Korea Republic,GRF,Griffin,Griffin,True
+65,100000066,107.0,Korea Republic,HLE,Hanwha Life Esports,Hanwha Life,True
+66,100000067,102.0,Japan,BC,Burning Core,Burning Core,True
+67,100000068,102.0,Japan,CGA,Crest Gaming Act,Crest Gaming,True
+68,100000069,49.0,China PR,EDG,EDward Gaming,EDward Gaming,True
+69,100000070,49.0,China PR,IG,Invictus Gaming,Invictus,True
+70,100000071,49.0,China PR,RW,Rogue Warriors,Rogue Warriors,True
+71,100000072,55.0,Costa Rica,INF,Infinity eSports CR,Infinity,True
+72,100000073,208.0,Vietnam,SGB,Dashing Buffalo,Saigon Buffalo,True
+73,100000074,272.0,United Kingdom,XL,exceL eSports,exceL eSports,True
+74,100000075,7.0,Europe,RGE,Rogue,Rogue,True
+75,100000076,80.0,Germany,SK,SK Gaming,SK Gaming,True
+76,100000152,102.0,Japan,AXZ,AXIZ,AXIZ,True
+77,100000153,102.0,Japan,SG,Sengoku Gaming,Sengoku Gaming,True
+78,100000154,107.0,Korea Republic,DK,DAMWON Gaming,DWG KIA,True
+79,100000155,107.0,Korea Republic,LSB,SANDBOX Gaming,Liiv SANDBOX,True
+80,100000156,50.0,Chinese Taipei,ALF,Alpha Esports,Alpha Esports,True
+81,100000157,50.0,Chinese Taipei,DG,Dragon Gate Team,Dragon GT,True
+82,100000158,35.0,Brazil,CNB,CNB e-Sports Club,CNB e-Sports,True
+83,100000159,35.0,Brazil,ITZ,INTZ e-Sports,INTZ e-Sports,True
+84,100000160,35.0,Brazil,PNG,paiN Gaming,paiN Gaming,True
+85,100000161,35.0,Brazil,PRG,ProGaming e-Sports,ProGaming,False
+86,100000162,35.0,Brazil,RED,RED Canids,RED Canids,True
+87,100000163,35.0,Brazil,ONE,Team oNe eSports,oNe eSports,True
+88,100000164,35.0,Brazil,VK,Vivo Keyd,Vivo Keyd,True
+89,100000165,35.0,Brazil,FLA,Flamengo eSports,Flamengo,True
+90,100000166,35.0,Brazil,RPG,Razer Pichau Gaming,RPG,False
+91,100000167,35.0,Brazil,RDP,Redemption POA,Redemption POA,True
+92,100000168,35.0,Brazil,UP,Uppercut esports,Uppercut,False
+93,100000169,19.0,Australia,AV,Avant Gaming,Avant Gaming,True
+94,100000170,19.0,Australia,BMR,Bombers,Bombers,False
+95,100000171,19.0,Australia,CHF,Chiefs Esports Club,Chiefs,True
+96,100000172,19.0,Australia,LGC,Legacy Esports,Legacy Esports,True
+97,100000173,19.0,Australia,ORD,ORDER,ORDER,True
+98,100000174,19.0,Australia,SIN,Sin Gaming,Sin Gaming,True
+99,100000175,19.0,Australia,TTC,Tectonic,Tectonic,True
+100,100000176,196.0,Turkey,FB,1907 Fenerbahçe,Fenerbahçe,True
+101,100000177,196.0,Turkey,DP,Dark Passage,Dark Passage,True
+102,100000178,196.0,Turkey,GAL,GALAKTICOS,GALAKTICOS,True
+103,100000179,196.0,Turkey,HWA,HWA Gaming,HWA Gaming,False
+104,100000180,196.0,Turkey,RBE,Royal Bandits,Royal Bandits,False
+105,100000181,196.0,Turkey,AUR,Team AURORA,Team AURORA,True
+106,100000182,196.0,Turkey,YC,YouthCrew Esports,YouthCrew,True
+107,100000183,19.0,Australia,GRV,Gravitas,Gravitas,True
+108,100000184,19.0,Australia,MMM,MAMMOTH,MAMMOTH,True
+109,100000185,196.0,Turkey,BJK,Beşiktaş e-Sports Club,Beşiktaş,True
+110,100000186,196.0,Turkey,BUR,Bursaspor Esports,Bursaspor,True
+111,100000187,196.0,Turkey,GS,Galatasaray Esports,Galatasaray,True
+112,100000188,196.0,Turkey,RYL,Royal Youth,Royal Youth,True
+113,100000189,49.0,China PR,GTA,Game Talents,Game Talents,True
+114,100000190,49.0,China PR,IMA,IMay,IMay,False
+115,100000191,49.0,China PR,JDG,JD Gaming,JD Gaming,True
+116,100000192,49.0,China PR,LGD,LGD Gaming,LGD Gaming,True
+117,100000193,49.0,China PR,NEW,Newbee,Newbee,True
+118,100000194,49.0,China PR,OMG,Oh My God,Oh My God,True
+119,100000195,49.0,China PR,SS,Snake Esports,Snake Esports,False
+120,100000196,49.0,China PR,WE,Team WE,Team WE,True
+121,100000197,49.0,China PR,VG,Vici Gaming,Vici Gaming,False
+122,100000198,49.0,China PR,DAN,DAN Gaming,DAN Gaming,False
+123,100000199,49.0,China PR,SN,SN Gaming,Suning,True
+124,100000200,49.0,China PR,BLG,Bilibili Gaming,Bilibili,True
+125,100000201,49.0,China PR,FPX,FunPlus Phoenix,FunPlus,True
+126,100000202,49.0,China PR,TOP,Topsports Gaming,Topsports,False
+127,100000203,49.0,China PR,SDG,SinoDragon Gaming,SinoDragon,False
+128,100000204,119.0,Macao,VF,Victory Five,Victory Five,True
+129,100000209,49.0,China PR,DOM,Dominus Esports,Dominus,False
+130,100000210,49.0,China PR,LNG,LNG Esports,LNG Esports,True
+131,100000211,49.0,China PR,TES,Top Esports,Top Esports,True
+132,100000212,196.0,Turkey,IW,İstanbul Wild Cats,İstanbul WC,True
+133,100000213,208.0,Vietnam,GAM,GAM Esports,GAM Esports,True
+134,100000214,16.0,Argentina,ISG,Isurus Gaming,Isurus Gaming,True
+135,100000215,208.0,Vietnam,LK,Lowkey Esports.Vietnam,Lowkey,True
+136,100000216,191.0,Thailand,MG,MEGA,MEGA,True
+137,100000217,160.0,Russia,UOL,Unicorns Of Love.CIS,UOL,True
+138,100000218,160.0,Russia,VEG,Vega Squadron,Vega Squadron,True
+139,100000219,176.0,Spain,MAM,MAD Lions Madrid,Lions Madrid,True
+140,100000221,49.0,China PR,EST,eStar,eStar,True
+141,100000222,203.0,United States,EG,Evil Geniuses,Evil Geniuses,True
+142,100000223,102.0,Japan,SHG,Fukuoka SoftBank Hawks,Hawks,True
+143,100000224,176.0,Spain,MAD,MAD Lions,MAD Lions,True
+144,100000225,35.0,Brazil,FUR,FURIA Uppercut,FURIA Esports,True
+145,100000226,35.0,Brazil,PRG,Prodigy Esports,Prodigy Esport,True
+146,100000227,19.0,Australia,PGG,Pentanet.GG,Pentanet.GG,True
+147,100000228,196.0,Turkey,5R,5 Ronin,5 Ronin,True
+148,100000229,107.0,Korea Republic,SP,APK Prince,SHO Prince,True
+149,100000230,107.0,Korea Republic,DRX,DragonX,DRX,True
+150,100000231,107.0,Korea Republic,T1,T1,T1,True
+151,100000295,216.0,Serbia,ASU,ASUS ROG ELITE,ASUS ROG ELITE,True
+152,100000296,80.0,Germany,BIG,BIG,BIG,True
+153,100000297,230.0,Great Britain,BTX,BT Excel,BT Excel,True
+154,100000298,100.0,Italy,SPK,Campus PS,Campus PS,True
+155,100000299,216.0,Serbia,CZV,Crvena zvezda,Crvena zvezda,True
+156,100000300,138.0,Netherlands,DK,Defusekids,Defusekids,True
+157,100000301,155.0,Poland,DV1,devils.one,devils.one,True
+158,100000302,117.0,Lithuania,EN,eNsure,eNsure,False
+159,100000303,59.0,Czech Republic,ESB,eSuba,eSuba,True
+160,100000304,184.0,Sweden,FKN,FALKN,FALKN,True
+161,100000305,230.0,Great Britain,FNR,Fnatic Rising,Fnatic Rising,True
+162,100000306,156.0,Portugal,FTW,For The Win,For The Win,True
+163,100000307,184.0,Sweden,GOD,Godsent,Godsent,True
+164,100000308,80.0,Germany,MOU,mousesports,mousesports,True
+165,100000309,176.0,Spain,OGB,Origen BCN,Origen BCN,False
+166,100000310,155.0,Poland,REC,Rogue,Rogue,True
+167,100000311,76.0,France,LDL,Team LDLC,Team LDLC,True
+168,100000312,76.0,France,VIT,Vitality.Bee,Vitality.Bee,True
+169,100000313,82.0,Greece,WLG,WLGaming,WLGaming,True
+170,100000314,155.0,Poland,RGO,AGO ROGUE,AGO ROGUE,True
+171,100000315,59.0,Czech Republic,CG,Cyber Gaming,Cyber Gaming,True
+172,100000316,156.0,Portugal,EGN,Electronik Gen,Electronik Gen,True
+173,100000317,216.0,Serbia,SSU,Energypot Wiz,ŠAIM SE SuppUp,True
+174,100000318,80.0,Germany,S04,Schalke 04 Ev.,Schalke 04 Ev.,True
+175,100000319,76.0,France,GO,GamersOrigin,GamersOrigin,True
+176,100000320,82.0,Greece,IF,Intrepid Fox,Intrepid Fox,True
+177,100000321,155.0,Poland,K1,K1ck Neosurf,K1ck Neosurf,True
+178,100000322,117.0,Lithuania,KEN,Kenty,Kenty,True
+179,100000323,176.0,Spain,MRS,Movistar Rider,Movistar Rider,True
+180,100000324,111.0,Latvia,PIG,PIGSPORTS,PIGSPORTS,True
+181,100000325,100.0,Italy,RCN,Racoon,Racoon,True
+182,100000326,27.0,Belgium,S1,Sector One,Sector One,True
+183,100000327,80.0,Germany,GL,GamerLegion,GamerLegion,True
+184,100000328,61.0,Denmark,SNG,Singularity,Singularity,True
+185,100000329,61.0,Denmark,VIP,Vipers Inc,Vipers Inc,True
+186,100000330,100.0,Italy,YDN,YDN Gamers,YDN Gamers,True
+187,100000343,35.0,Brazil,SAN,Santos,Santos,True
+188,100000353,107.0,Korea Republic,DYN,Dynamics,Dynamics,False
+189,100000406,155.0,Poland,PT7,7more7 Pompa,7more7 Pompa,True
+190,100000407,56.0,Croatia,CR4,CR4ZY,CR4ZY,True
+191,100000408,117.0,Lithuania,5K,Five Kings,Five Kings,True
+192,100000409,176.0,Spain,G2A,G2 Arctic,G2 Arctic,True
+193,100000410,117.0,Lithuania,IW,Iron Wolves,Iron Wolves,True
+194,100000411,138.0,Netherlands,LLL,LowLandLions,LowLandLions,True
+195,100000412,230.0,Great Britain,MSF,Misfits Prem,Misfits Prem,True
+196,100000413,160.0,Russia,RDL,Riddle Esports,Riddle Esports,True
+197,100000414,156.0,Portugal,SAM,SAMCLAN,SAMCLAN,True
+198,100000415,100.0,Italy,SMS,Morning Stars,Morning Stars,True
+199,100000416,59.0,Czech Republic,SIN,SINNERS Esport,SINNERS Esport,True
+200,100000417,0.0,?,SUP,SuppUp eSports,?,True
+201,100000418,82.0,Greece,WLG,WLGaming,WLGaming,True
+202,100000420,91.0,Hong Kong,PSG,PSG,PSG,True
+203,100000433,49.0,China PR,TT,TT,TT,True
+204,100000434,61.0,Denmark,AST,Astralis,Astralis,True
+205,100000435,107.0,Korea Republic,BRO,Fredit BRION,Fredit BRION,True
+206,100000436,107.0,Korea Republic,NS,Nongshim RF,Nongshim RF,True
+207,100000437,49.0,China PR,RRA,Rare Atom,Rare Atom,True
+208,100000438,35.0,Brazil,CRZ,Cruzeiro eSpor,Cruzeiro,True
+209,100000439,35.0,Brazil,LLL,LOUD,LOUD,True
+210,100000440,35.0,Brazil,RNS,Rensga eSports,Rensga eSports,True
+211,100000441,35.0,Brazil,VRX,Vorax,Vorax,True
+212,100000448,196.0,Turkey,NSR,NASR eSports Turkey,NASR eSports,True
+213,100000450,19.0,Australia,PCE,PEACE,PEACE,True
+214,100000454,58.0,Cyprus,ANO,Anorthosis,Anorthosis,True
+215,100000455,176.0,Spain,BTS,Cream R. Betis,Cream R. Betis,True
+216,100000456,82.0,Greece,GMC,Gamespace MCE,Gamespace MCE,True
+217,100000457,100.0,Italy,GSK,Goskilla,Goskilla,True
+218,100000458,155.0,Poland,IHG,Illuminar,Illuminar,True
+219,100000459,76.0,France,KC,Karmine Corp,Karmine Corp,True
+220,100000460,27.0,Belgium,KVM,KV Mechelen,KV Mechelen,True
+221,100000461,100.0,Italy,MCK,Macko Esports,Macko Esports,True
+222,100000462,117.0,Lithuania,M2,Method2Madness,Method2Madness,True
+223,100000463,100.0,Italy,MKS,Mkers,Mkers,True
+224,100000464,138.0,Netherlands,PSV,PSV Esports,PSV Esports,True
+225,100000465,176.0,Spain,UCA,UCAM Esports,UCAM Esports,True
+226,100000466,156.0,Portugal,WD,White Dragons,White Dragons,True
+227,100000467,216.0,Serbia,Z10,Z10 ESHARK,Z10 ESHARK,True
+228,100000480,35.0,Brazil,NMG,Netshoes Miner,Netshoes Miner,True
+229,100000481,49.0,China PR,ULP,Ultra Prime,Ultra Prime,True
