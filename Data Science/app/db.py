@@ -58,24 +58,57 @@ class PostgreSQL:
                 WHERE PlayerId =""" + id_player + ";"
         cursor.execute(query)
         result = cursor.fetchall()
+        self.close()
+        return result
+
+    def fetch_team_info(self, id_team: int):
+        cursor = self.connection.cursor()
+        query = """
+                SELECT * FROM lcs_teams
+                WHERE TeamId =""" + id_team + ";"
+        cursor.execute(query)
+        result = cursor.fetchall()
+        self.close()
         return result
 
 
-@router.get('/info')
-async def get_player_info(players_id):
-    """Given the player ID this will return
+@router.get('/player_info')
+async def get_player_info(player_id):
+    """
+    Given the player id, this will return
     all the info from that player in JSON
     """
 
-    # player: float = Field(..., example=3.14)
-    # project_code: int = Field(..., example=1014106)
-    # x3: str = Field(..., example='banjo')
-    
     pg = PostgreSQL()
-    fetched_player_info = pg.fetch_player_info(players_id)
-    keys = ['Id', 'PlayerId', 'FirstName', 'LastName', 'CommonName', 'MatchName',
-            'Position', 'Gender', 'BirthDate', 'BirthCountry', 'Nationality', 'Updated']
-    final_player_info = {key: value for key,
-                         value in zip(keys, fetched_player_info)}
+    fetched_player_info = pg.fetch_player_info(player_id)
 
-    return {'Player stuff': final_player_info}
+    player_keys = ['ID', 'PlayerId', 'FirstName', 'LastName', 'CommonName', 'MatchName',
+                   'Position', 'Gender', 'BirthDate', 'BirthCountry', 'Nationality', 'Updated']
+    result = []
+    for i in fetched_player_info:
+        for j in i:
+            result.append(j)
+
+    final_player_info = dict(zip(player_keys, result))
+
+    return final_player_info
+
+
+@router.get('/team_info')
+async def get_team_info(team_id):
+    """
+    Given the team id, this will return
+    all the info from that team in JSON
+    """
+    team_keys = ['id', 'TeamId', 'AreaId', 'AreaName',
+                       'Key', 'Name', 'ShortName', 'Active']
+    pg = PostgreSQL()
+    fetched_team_info = pg.fetch_team_info(team_id)
+    result = []
+    for i in fetched_team_info:
+        for j in i:
+            result.append(j)
+
+    final_team_info = dict(zip(team_keys, result))
+
+    return final_team_info
