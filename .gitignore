@@ -353,3 +353,4 @@ Data Science/Data/.env
 *.json
 Data/.env
 notebooks/
+*.ipynb
