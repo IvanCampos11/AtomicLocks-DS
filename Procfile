@@ -1,1 +1,1 @@
-web: uvicorn main.app:app --reload
+web: uvicorn app.main:app --workers 1 --host 0.0.0.0 --port 8000
