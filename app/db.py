@@ -12,8 +12,7 @@ log = logging.getLogger(__name__)
 router = APIRouter()
 
 # Load environment variables from .env
-load_dotenv(
-    "/home/ivancampos/Documents/Programming Stuff/AtomicLocks/Data Science/Data/.env")
+load_dotenv()
 
 
 class Player_ID(BaseModel):
