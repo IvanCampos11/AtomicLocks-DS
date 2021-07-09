@@ -351,3 +351,4 @@ MigrationBackup/
 Data Science/Pipfile.lock
 Data Science/Data/.env
 *.json
+Data/.env
